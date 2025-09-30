@@ -345,6 +345,9 @@ td {
 @media (max-width: 768px) {
   .desktop-bg { display: none; }
   .mobile-bg  { display: block; }
+  body {
+    font-size: large;
+  }
 }
 
 .plus {
